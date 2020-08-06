@@ -64,7 +64,7 @@
 			children = (
 				1869B79024DC4DA600D302BC /* AppDelegate.swift */,
 				1869B79224DC4DA600D302BC /* SceneDelegate.swift */,
-				1869B79424DC4DA600D302BC /* ViewController.swift */,
+				1869B7AC24DC82E600D302BC /* Model */,
 				1869B7A924DC812600D302BC /* ViewModel */,
 				1869B79624DC4DA600D302BC /* Main.storyboard */,
 				1869B79924DC4DAD00D302BC /* Assets.xcassets */,
@@ -80,6 +80,14 @@
 				1869B7AA24DC81D200D302BC /* LoginViewModel.swift */,
 			);
 			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		1869B7AC24DC82E600D302BC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				1869B79424DC4DA600D302BC /* ViewController.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
